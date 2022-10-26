@@ -1,4 +1,3 @@
-echo "Start skryptu"n\
 echo "Pokaż wersję kernela"
 uname -a 
 echo "Pokaż wersje gita"
