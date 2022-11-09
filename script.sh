@@ -5,4 +5,3 @@ git --version
 echo "Pokaż wersję basha"
 bash --version
 echo "Koniec!"
-#jakiś skry[y
