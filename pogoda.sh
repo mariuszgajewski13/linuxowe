@@ -1,1 +1,1 @@
-curl wttr.in/Krakow
+curl wrrr.in/Krakow
